@@ -1,0 +1,1 @@
+ndisasm.exe -u kernel.bin > kernel.txt
